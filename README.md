@@ -12,7 +12,7 @@
 - Enci Zheng
 
 ## Project Overview
-Brief description of your project and its goals.
+Our program offers a straightforward, secure, and affordable client case storage and management system that allows non-profit staff members to easily navigate the system even with minimal technical expertise. Non-profit staff members can feel secure knowing that the application safeguards all the information for both the staff member, whether it be admin or staff, and the clients. We approached building our program with a strong emphasis on planning and teamwork. We first outlined the core features and broke the project into smaller tasks, allowing each team member to take ownership of specific components. Throughout development, we maintained clear and consistent communication, regularly checking in and refining our work. This collaborative and iterative process helped us stay organized, adapt quickly, and build a cohesive final product. We used Next.js as the React framework for the web, as well as Supabase database, Google-SSO, and Tailwind.
 
 ## Tech Stack
 - Frontend:
